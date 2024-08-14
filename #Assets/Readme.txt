@@ -1,0 +1,3 @@
+-------Unheard(An unheard Audiobook experience)-------------
+
+•This is a cross platform audiobook app that I'm developing that focuses on three things. Feature packed functionality, UI and UX elegance and customization. It aims to combine all the best features of the best listening and audiobook apps in the game. It is geared toward those audiobook lovers who love to collect, download and listen to audiobooks. To give them a premium listening and app experience. This is the documentation of how I progress its development
